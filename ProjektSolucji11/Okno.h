@@ -8,6 +8,7 @@ class Okno
 private:
 	int wysokoscOkna;
 	int szerokoscOkna;
+
 	int polozenieOknaX;
 	int polozenieOknaY;
 
